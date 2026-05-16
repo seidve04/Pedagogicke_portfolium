@@ -5,3 +5,7 @@ Katedra technické a informační výchovy <br>
 Pedagogická fakulta, UPOL
 
 __Zde budou vaše vlastní údaje__
+Pedagogické portfolio <br>
+Bakalářské studium <br>
+Veronika Seidlová (seidve04) <br>
+Obor: Aj/IT, kombinované 
